@@ -1,0 +1,5 @@
+title: 点了“保存”，数据真的安全了吗？
+description: 从缓存到落盘，理解文件写入、持久性与原子替换
+theme: jekyll-theme-minimal
+show_downloads: false
+lang: zh-CN
